@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://www.ffangtu.com">![portrait.jpg](https://i.loli.net/2021/04/13/haueXNFyCHWZJUr.jpg)</a>
+  ![portrait.jpg](https://i.loli.net/2021/04/13/haueXNFyCHWZJUr.jpg)
 </p>
 
-<h1 align="center">我是 <a href="https://www.ffangtu.com">方土</a></h1>
+<h1 align="center">我是 方土</h1>
 <h1 align="center">😊欢迎来到我的主页😊</h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ffangtu.com"><img src="./static/iron_man.jpg" alt="ffangtu Banner"></a>
+  <img src="./static/iron_man.jpg" alt="ffangtu Banner">
 </p>
 
 
