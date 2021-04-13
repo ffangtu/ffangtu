@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.ffangtu.com"><img src="./static/portrait.jpg" alt="ffangtu Banner"></a>
+  <a href="https://www.ffangtu.com">![portrait.jpg](https://i.loli.net/2021/04/13/haueXNFyCHWZJUr.jpg)</a>
 </p>
 
 <h1 align="center">我是 <a href="https://www.ffangtu.com">方土</a></h1>
