@@ -1,7 +1,7 @@
 <p align="center">
   ![portrait.jpg](https://i.loli.net/2021/04/13/haueXNFyCHWZJUr.jpg)
 </p>
-
+![portrait.jpg](https://i.loli.net/2021/04/13/haueXNFyCHWZJUr.jpg)
 <h1 align="center">我是 方土</h1>
 <h1 align="center">😊欢迎来到我的主页😊</h1>
 
